@@ -45,6 +45,7 @@ Therefore, we need to solve for $b$ which can then be re-arranged to give us our
 
 1. So we know that $a^2+b^2 = L^2$ as $c = L$ therefore when we re-arrange for b we get: $\sqrt{L^2 - a^2} = b$
 2. Then we can re-arrange $b$ for $y_{2}$ -> $b+y_{1} = y_{2}$
+3. So we are left with: $y_{2} = \sqrt{L^2 - a^2} + y_{1}$
 
 I have also added some constraints to ensure that C is always positive as it made it easier to have a +ve slope rather than a -ve one. This does however limit the number of angles formed.
 
